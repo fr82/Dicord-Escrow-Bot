@@ -4,6 +4,8 @@
 
 ## Overview
 
+THIS IS NOT THE COMPLETE VERSION, this is just a demo and does not transact real crypto. The full version will remain private.
+
 The **Crypto Middleman Bot** is an automated Discord bot designed to facilitate cryptocurrency transactions for BTC, SOL, ETH, and LTC. This bot acts as a middleman between users, allowing them to trade and transact with ease while ensuring secure and seamless exchanges.
 
 ## Features
