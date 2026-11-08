@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()  
 
-
+# grabs live prices of each coin
 def get_current_price(coin_symbol):
     if coin_symbol == "eth":
         coin_symbol = "ethereum"
