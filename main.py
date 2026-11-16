@@ -16,7 +16,6 @@ from crypto.utils import create_transaction
 
 load_dotenv()
 
-
 TOKEN = os.getenv('BOT_TOKEN')
 BLOCKCYPHER_KEY = os.getenv('BLOCKCYPHER_KEY')
 MM_CHANNEL = int(os.getenv('MM_CHANNEL'))
